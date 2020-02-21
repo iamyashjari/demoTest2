@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Hello Test2
+Hello worls Test2
 This is yash jariwala
-=======
-Hello World Test2
->>>>>>> parent of 1f405b2... second commit demoTest2
